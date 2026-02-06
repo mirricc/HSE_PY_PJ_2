@@ -13,7 +13,7 @@
    - Ищем лучший результат: с калориями и на русском языке
    - Получаем калории из разных возможных полей запроса
 ```
-def get_food_info(product_name: str) -> Optional[Dict[str, Any]]:
+def get_food_info(product_name: str):
     try:
         encoded_name = urllib.parse.quote(product_name.strip())
         url = (
