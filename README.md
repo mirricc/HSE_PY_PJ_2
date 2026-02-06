@@ -1,6 +1,6 @@
 # HSE_PY_PJ_2
 # Дополнительная функциональность:
-# Демонстрация работы 
+
 1. **Графики:**
    <img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/d64c264d-6193-48ae-959f-09cad9525e2f" />
 2.  **Рекомендации по ккал:** 
@@ -58,6 +58,7 @@ def get_food_info(product_name: str):
     except Exception:
         return None
 ```
+# Демонстрация работы 
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/0b458bfb-170a-44d5-a4dc-11c60a7ad616" />
 <img width="1280" height="1057" alt="image" src="https://github.com/user-attachments/assets/c627d198-5183-4075-ada8-10431f3dc550" />
 <img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/98926552-0f92-483d-8736-3d8784d8c2d3" />
