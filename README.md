@@ -7,6 +7,7 @@
   <img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5a407697-49ca-44b9-bfce-cf282ff9e8c9" />
   <img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/49755a6a-81f7-4f1d-a16e-f404ca4ad971" />
 3. **Продвинутое определение калорийности:**
+   
    - Улучшенный запрос: без лишних пробелов, с фильтрацией по стране и языку
    - Получаем несколько вариантов для выбора лучшего
    - Ищем лучший результат: с калориями и на русском языке
