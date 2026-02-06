@@ -1,2 +1,14 @@
-<img width="991" height="353" alt="image" src="https://github.com/user-attachments/assets/df32d3b9-25d7-40ce-9002-9e46cf197de5" />
 # HSE_PY_PJ_2
+# Демонстрация работы 
+<img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/0b458bfb-170a-44d5-a4dc-11c60a7ad616" />
+<img width="1280" height="1057" alt="image" src="https://github.com/user-attachments/assets/c627d198-5183-4075-ada8-10431f3dc550" />
+<img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/98926552-0f92-483d-8736-3d8784d8c2d3" />
+<img width="1280" height="945" alt="image" src="https://github.com/user-attachments/assets/b20e646c-f59b-43f6-a58c-fe1fe7e18eed" />
+<img width="1280" height="809" alt="image" src="https://github.com/user-attachments/assets/69824391-583d-49ff-9bb8-b9bdedcba554" />
+<img width="1280" height="1108" alt="image" src="https://github.com/user-attachments/assets/3f69abb2-ae13-4255-92a8-45711b5bddef" />
+<img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/30c6bd5e-62e9-4f48-aefd-48b29efb22ec" />
+<img width="1280" height="1021" alt="image" src="https://github.com/user-attachments/assets/cbb9428c-767e-4a9e-84cb-d733b4a99a2d" />
+<img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5ab910de-e33e-4902-9453-d99d7767c2c7" />
+<img width="1280" height="753" alt="image" src="https://github.com/user-attachments/assets/630ca5f6-eee1-46fd-866c-fe772184083f" />
+<img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/0698092b-f8d4-4586-94ca-6e8a5cc5b74f" />
+<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/3581432c-43a3-4355-ae79-1d9dd5310af5" />
