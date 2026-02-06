@@ -6,12 +6,58 @@
 2.  **Рекомендации по ккал:** 
   <img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5a407697-49ca-44b9-bfce-cf282ff9e8c9" />
   <img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/49755a6a-81f7-4f1d-a16e-f404ca4ad971" />
-3. **Продвинутое определение калорийности:**
+3. Продвинутое определение калорийности:
    
    - Улучшенный запрос: без лишних пробелов, с фильтрацией по стране и языку
    - Получаем несколько вариантов для выбора лучшего
    - Ищем лучший результат: с калориями и на русском языке
    - Получаем калории из разных возможных полей запроса
+```
+def get_food_info(product_name: str) -> Optional[Dict[str, Any]]:
+    try:
+        encoded_name = urllib.parse.quote(product_name.strip())
+        url = (
+            f"https://world.openfoodfacts.org/cgi/search.pl?"
+            f"action=process&"
+            f"search_terms={encoded_name}&"
+            f"json=1&"
+            f"page_size=3"
+        )
+        response = requests.get(url, timeout=8)
+        if response.status_code != 200:
+            return None
+        
+        data = response.json()
+        products = data.get('products', [])
+        
+        for product in products:
+            # Получаем название на русском или английском
+            name = (
+                product.get('product_name_ru') or 
+                product.get('product_name') or 
+                'Неизвестный продукт'
+            ).strip()
+            
+            nutriments = product.get('nutriments', {})
+            calories = (
+                nutriments.get('energy-kcal_100g') or
+                nutriments.get('energy_100g', 0) / 4.184 or 
+                0
+            )
+            
+            if calories > 0 and name and name.lower() != 'unknown':
+                serving_size = product.get('serving_size', '100г')
+                
+                return {
+                    'name': name.capitalize(),
+                    'calories': round(float(calories), 1),
+                    'serving_size': serving_size
+                }
+        
+        return None
+    except Exception:
+        return None
+```
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/0b458bfb-170a-44d5-a4dc-11c60a7ad616" />
 <img width="1280" height="1057" alt="image" src="https://github.com/user-attachments/assets/c627d198-5183-4075-ada8-10431f3dc550" />
 <img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/98926552-0f92-483d-8736-3d8784d8c2d3" />
