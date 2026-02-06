@@ -1,5 +1,16 @@
 # HSE_PY_PJ_2
+# Дополнительная функциональность:
 # Демонстрация работы 
+1. **Графики:**
+   <img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/d64c264d-6193-48ae-959f-09cad9525e2f" />
+2.  **Рекомендации по ккал:** 
+  <img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5a407697-49ca-44b9-bfce-cf282ff9e8c9" />
+  <img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/49755a6a-81f7-4f1d-a16e-f404ca4ad971" />
+3. **Продвинутое определение калорийности:**
+   - Улучшенный запрос: без лишних пробелов, с фильтрацией по стране и языку
+   - Получаем несколько вариантов для выбора лучшего
+   - Ищем лучший результат: с калориями и на русском языке
+   - Получаем калории из разных возможных полей запроса
 <img width="1280" height="1045" alt="image" src="https://github.com/user-attachments/assets/0b458bfb-170a-44d5-a4dc-11c60a7ad616" />
 <img width="1280" height="1057" alt="image" src="https://github.com/user-attachments/assets/c627d198-5183-4075-ada8-10431f3dc550" />
 <img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/98926552-0f92-483d-8736-3d8784d8c2d3" />
