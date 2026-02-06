@@ -3,7 +3,7 @@
 
 1. **Графики:**
    <img width="1280" height="771" alt="image" src="https://github.com/user-attachments/assets/d64c264d-6193-48ae-959f-09cad9525e2f" />
-2.  **Рекомендации по ккал:** 
+2.  **Рекомендации для достижения целей:** 
   <img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5a407697-49ca-44b9-bfce-cf282ff9e8c9" />
   <img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/49755a6a-81f7-4f1d-a16e-f404ca4ad971" />
 3. Продвинутое определение калорийности:
