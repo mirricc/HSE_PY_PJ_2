@@ -11,4 +11,10 @@
 <img width="1280" height="319" alt="image" src="https://github.com/user-attachments/assets/5ab910de-e33e-4902-9453-d99d7767c2c7" />
 <img width="1280" height="753" alt="image" src="https://github.com/user-attachments/assets/630ca5f6-eee1-46fd-866c-fe772184083f" />
 <img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/0698092b-f8d4-4586-94ca-6e8a5cc5b74f" />
+# Демонстрация деплоя 
+<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/8f814939-885b-4c97-aafb-866a9a0e19ab" />
+<img width="1280" height="524" alt="image" src="https://github.com/user-attachments/assets/53f94e07-a869-4b96-a09e-0c83eaa3ee3b" />
+<img width="1280" height="506" alt="image" src="https://github.com/user-attachments/assets/ee0e2026-75e6-44ce-8c02-c30ae20e663a" />
+<img width="1280" height="298" alt="image" src="https://github.com/user-attachments/assets/2900fce5-60eb-4000-b8ad-2828f54ecb6b" />
+## При этом логи приложения не аиссались на сайте, хотя локально все работает
 <img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/3581432c-43a3-4355-ae79-1d9dd5310af5" />
