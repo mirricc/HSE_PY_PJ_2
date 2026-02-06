@@ -77,5 +77,5 @@ def get_food_info(product_name: str):
 <img width="1280" height="506" alt="image" src="https://github.com/user-attachments/assets/ee0e2026-75e6-44ce-8c02-c30ae20e663a" />
 <img width="1280" height="298" alt="image" src="https://github.com/user-attachments/assets/2900fce5-60eb-4000-b8ad-2828f54ecb6b" />
 
-## При этом логи приложения не аиссались на сайте, хотя локально все работает
+## При этом логи приложения не писались на сайте, хотя локально все работает
 <img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/3581432c-43a3-4355-ae79-1d9dd5310af5" />
